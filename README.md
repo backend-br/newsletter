@@ -29,3 +29,6 @@ MIT - BackEnd Brasil [LICENSE.md](LICENSE.md)
 - [Poste mais!](https://github.com/backend-br/poste-mais)
 - [Awesome Back-End](https://github.com/backend-br/awesome-backend)
 
+
+## Newsletters por data
+17/01/2019 - https://mailchi.mp/b41b2f914f0f/newsletter-backend-brasil-2019?e=314de81b12
